@@ -1,4 +1,4 @@
-# Multithreaded Role-Playing Game Engine – A Software Design Patterns Showcase in Java
+# Multithreaded Role-Playing Game – A Software Design Patterns Showcase in Java
 
 **Java-based multithreaded role-playing game (RPG) engine** showcasing **professional software architecture**.  
 Implements **Observer, Singleton, Template Method, Strategy, State, and Command** software design patterns, with concurrent threads for battle timing and real-time **gyroscope, accelerometer, and sound** input. All execution is synchronized and thread-safe for accuracy and performance.
