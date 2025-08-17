@@ -207,11 +207,6 @@ public class AvadaKedavra implements Command {
 
 ---
 
-## 🎥 Playlist
-[YouTube Demo Playlist](https://www.youtube.com/playlist?list=PLa33B7Q7GDot3L961OvjiXvq9no3395br)
-
----
-
 ## 📌 Key Engineering Takeaways
 
 - Demonstrates synchronous and asynchronous processing in a game loop.  
