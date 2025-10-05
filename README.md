@@ -1,23 +1,22 @@
-# Multithreaded Role-Playing Game – A Software Design Patterns Showcase in Java
+# Multithreaded RPG – A Software Design Patterns Showcase in Java
 
-**Java-based multithreaded role-playing game (RPG) engine** showcasing **professional software architecture**.  
-Implements **Observer, Singleton, Template Method, Strategy, State, and Command** software design patterns, with concurrent threads for battle timing and real-time **gyroscope, accelerometer, and sound** input. All execution is synchronized and thread-safe for accuracy and performance.
+A **Java-based multithreaded software architecture** demonstrating advanced **object-oriented programming**, **concurrent processing**, **software design pattern implementation**, and **socket programming**.  
+The project integrates **Observer, Singleton, Template Method, Strategy, State, and Command** design patterns within a synchronized, thread-safe system handling real-time inputs from **gyroscope, accelerometer, and sound sensors**.
 
-
-This project is a part of the Software Design for Engineers coursework during my Junior II semester.
+Developed as part of the *Software Design for Engineers* coursework, this project simulates an **interactive, text-based RPG environment** as a creative medium to showcase **professional software design** and **concurrency techniques**.
 
 ---
 
 ## 📖 Overview
 
-**Hogwarts: A Journey Through Time** is a **text-based adventure RPG** with a **time-travel storyline** set in the Harry Potter universe.  
-Players explore multiple eras, battle legendary characters, and use interactive spells triggered by **real-time sensor data**.
+**Hogwarts: A Journey Through Time** is a **text-based adventure simulation** using **real-time sensor inputs** to trigger gameplay logic.  
+While presented as an RPG setting, the project’s primary goal is to demonstrate **multithreaded synchronization**, **pattern-based architecture**, and **real-time event handling** in Java.
 
-Key highlights:
-- **Multiple scenes & battles**: From the Hogwarts founders’ duel to the Grindelwald battle to the final showdown with Voldemort.
-- **Customizable strategy**: Choose attacks, brew potions, and manage resources.
-- **Sensors as gameplay mechanics**: Perform spells via phone gestures and voice input.
-- **Clean, extensible architecture** with **six major design patterns**.
+**Key highlights:**
+- Modular and extensible **object-oriented design**  
+- Integration of **six major software design patterns**  
+- Real-time **sensor input processing** (gyroscope, accelerometer, sound)  
+- Thread-safe architecture ensuring synchronized execution  
 
 🎥 **Demo Playlist:** [YouTube](https://www.youtube.com/playlist?list=PLa33B7Q7GDot3L961OvjiXvq9no3395br)
 
@@ -25,7 +24,7 @@ Key highlights:
 
 ## 🎯 Objective
 
-To cohesively integrate **multiple OOP design patterns**, **multithreading**, and **sensor input** into a fun, extensible Java-based RPG.
+To design and implement a **modular, multithreaded Java architecture** that cohesively integrates **object-oriented design patterns**, **real-time sensor input**, and **concurrent execution**, demonstrating robust **OOP** and **system design** capabilities.
 
 ---
 
